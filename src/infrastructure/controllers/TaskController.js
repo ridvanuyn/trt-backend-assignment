@@ -69,7 +69,6 @@ class TaskController {
             const updatedTask = await taskService.updateTask(id, { title, description });
             res.status(200).json(updatedTask);
         } catch (error) {
-            console.log(error)
             next(new CustomError(ERROR_CODES.OPERATION_NOT_COMLETED.message, ERROR_CODES.OPERATION_NOT_COMLETED.code));
         }
     }
@@ -92,7 +91,6 @@ class TaskController {
             logger.info(`Task Deleted ${id}`)
             res.status(204).send();
         } catch (error) {
-            console.log(error)
             next(new CustomError(ERROR_CODES.OPERATION_NOT_COMLETED.message, ERROR_CODES.OPERATION_NOT_COMLETED.code));
         }
     }

@@ -11,6 +11,10 @@ const ERROR_CODES = {
         code: 'AUTH_ERR',
         message: 'You are not authenticated',
     },
+    AUTHENTICATION_TIMEOUT_ERROR: {
+        code: 'AUTH_TIME_ERR',
+        message: 'Token timeout',
+    },
     GOOGLE_AUTHENTICATION_ERROR: {
         code: 'GOOGLE_AUTH_ERR',
         message: 'Google authentication error',

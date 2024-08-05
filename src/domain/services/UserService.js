@@ -1,6 +1,7 @@
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import ERROR_CODES from '../../constants/errors.js';
+import CustomError from '../../utils/CustomError.js';
 
 class UserService {
     constructor(userRepository) {
@@ -12,7 +13,7 @@ class UserService {
         let existingUser = await this.userRepository.findByEmail(email);
 
         if (existingUser) {
-            next(new CustomError(ERROR_CODES.ALREADY_REGISTERED.message, ERROR_CODES.ALREADY_REGISTERED.code));
+             throw new CustomError(ERROR_CODES.ALREADY_REGISTERED.message, ERROR_CODES.ALREADY_REGISTERED.code);
         }
 
         const salt = await bcrypt.genSalt(10);
@@ -31,13 +32,13 @@ class UserService {
         const user = await this.userRepository.findByEmail(email);
 
         if (!user) {
-            next(new CustomError(ERROR_CODES.INVALID_CREDENTIAL.message, ERROR_CODES.INVALID_CREDENTIAL.code));
+            throw new CustomError(ERROR_CODES.INVALID_CREDENTIAL.message, ERROR_CODES.INVALID_CREDENTIAL.code);
         }
 
         const isMatch = await bcrypt.compare(password, user.password);
 
         if (!isMatch) {
-            next(new CustomError(ERROR_CODES.INVALID_CREDENTIAL.message, ERROR_CODES.INVALID_CREDENTIAL.code));
+            throw new CustomError(ERROR_CODES.INVALID_CREDENTIAL.message, ERROR_CODES.INVALID_CREDENTIAL.code);
         }
 
         const token = await this.generateToken(user);

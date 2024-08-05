@@ -1,19 +1,28 @@
-import logger from '../../config/logger.js';
+import CustomError from '../../utils/CustomError.js';
 import ERROR_CODES from '../../constants/errors.js';
-
+import logger from '../../config/logger.js';
 
 const errorHandler = (err, req, res, next) => {
-    console.log(err.code,"hoo")
-    const error = Object.values(ERROR_CODES).find(ec => ec.code === err.code) || ERROR_CODES.UNKNOWN_ERROR;
 
+    let error = err;
+
+    if (!(err instanceof CustomError)) {
+        const errorCode = Object.values(
+            ERROR_CODES).find(ec =>
+                ec.code === err.code) || ERROR_CODES.UNKNOWN_ERROR;
+        error = new CustomError(
+            err.message || errorCode.message,
+            err.code || errorCode.code,
+            err.details
+        );
+    }
 
     const statusCode = res.statusCode === 200 ? 500 : res.statusCode;
-    res.status(statusCode);
-
-    res.json({
-        message:  error.message,
+    logger.error(err);
+    res.status(statusCode).json({
+        message: error.message,
         code: error.code,
-        details: err.details || []
+        details: error.details
     });
 };
 

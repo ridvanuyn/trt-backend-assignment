@@ -872,3 +872,92 @@
 2024-08-05T17:08:20.249Z info: MongoDB connected
 2024-08-05T17:10:29.951Z info: Server started on port 3000
 2024-08-05T17:10:29.957Z info: MongoDB connected
+2024-08-05T17:33:43.635Z info: Server started on port 3000
+2024-08-05T17:33:43.642Z info: MongoDB connected
+2024-08-05T17:33:55.159Z info: POST /api/users/login
+2024-08-05T17:33:56.383Z info: POST /api/users/login
+2024-08-05T17:34:06.163Z info: GET /api/users/login
+2024-08-05T17:34:10.706Z info: POST /api/users/login
+2024-08-05T17:34:42.213Z info: Server started on port 3000
+2024-08-05T17:34:42.219Z info: MongoDB connected
+2024-08-05T17:34:44.430Z info: POST /api/users/login
+2024-08-05T17:35:11.644Z info: Server started on port 3000
+2024-08-05T17:35:11.649Z info: MongoDB connected
+2024-08-05T17:35:16.319Z info: POST /api/users/login
+2024-08-05T17:35:56.054Z info: Server started on port 3000
+2024-08-05T17:35:56.066Z info: MongoDB connected
+2024-08-05T17:36:00.413Z info: POST /api/users/login
+2024-08-05T17:36:34.239Z info: Server started on port 3000
+2024-08-05T17:36:34.246Z info: MongoDB connected
+2024-08-05T17:36:35.334Z info: POST /api/users/login
+2024-08-05T17:39:51.877Z info: Server started on port 3000
+2024-08-05T17:39:51.894Z info: MongoDB connected
+2024-08-05T17:39:53.134Z info: POST /api/users/login
+2024-08-05T17:39:54.889Z info: POST /api/users/login
+2024-08-05T17:40:04.256Z info: POST /api/users/register
+2024-08-05T17:40:04.261Z info: User Created ridvan ridvan.uyn@gmail.com
+2024-08-05T17:40:40.678Z info: Server started on port 3000
+2024-08-05T17:40:40.684Z info: MongoDB connected
+2024-08-05T17:40:45.361Z info: POST /api/users/register
+2024-08-05T17:40:45.371Z info: User Created ridvan ridvan.uyn@gmail.com
+2024-08-05T17:41:00.087Z info: POST /api/users/register
+2024-08-05T17:41:00.092Z info: User Created ridvan ridvan.uyn@gmail.com
+2024-08-05T17:41:00.765Z info: POST /api/users/register
+2024-08-05T17:41:00.769Z info: User Created ridvan ridvan.uyn@gmail.com
+2024-08-05T17:42:27.053Z info: Server started on port 3000
+2024-08-05T17:42:27.060Z info: MongoDB connected
+2024-08-05T17:42:28.861Z info: POST /api/users/register
+2024-08-05T17:42:40.117Z info: Server started on port 3000
+2024-08-05T17:42:40.124Z info: MongoDB connected
+2024-08-05T17:42:41.714Z info: POST /api/users/register
+2024-08-05T17:42:56.907Z info: Server started on port 3000
+2024-08-05T17:42:56.914Z info: MongoDB connected
+2024-08-05T17:42:58.636Z info: POST /api/users/register
+2024-08-05T17:42:58.641Z info: User Created ridvan ridvan.uyn@gmail.com
+2024-08-05T17:43:21.054Z info: Server started on port 3000
+2024-08-05T17:43:21.060Z info: MongoDB connected
+2024-08-05T17:44:08.074Z info: Server started on port 3000
+2024-08-05T17:44:08.081Z info: MongoDB connected
+2024-08-05T17:44:25.959Z info: POST /api/users/register
+2024-08-05T17:45:18.943Z info: Server started on port 3000
+2024-08-05T17:45:18.948Z info: MongoDB connected
+2024-08-05T17:45:22.015Z info: POST /api/users/register
+2024-08-05T17:45:22.027Z error: Error: User already registered
+2024-08-05T17:45:39.416Z info: Server started on port 3000
+2024-08-05T17:45:39.422Z info: MongoDB connected
+2024-08-05T17:45:47.180Z info: Server started on port 3000
+2024-08-05T17:45:47.187Z info: MongoDB connected
+2024-08-05T17:45:51.154Z info: POST /api/users/register
+2024-08-05T17:45:51.165Z error: Error: User already registered
+2024-08-05T17:45:54.314Z info: Server started on port 3000
+2024-08-05T17:45:54.321Z info: MongoDB connected
+2024-08-05T17:45:59.328Z info: POST /api/users/register
+2024-08-05T17:45:59.339Z error: Error: User already registered
+2024-08-05T17:46:08.875Z info: Server started on port 3000
+2024-08-05T17:46:08.881Z info: MongoDB connected
+2024-08-05T17:46:11.925Z info: POST /api/users/register
+2024-08-05T17:46:11.942Z error: Error: User already registered
+2024-08-05T17:47:48.275Z info: Server started on port 3000
+2024-08-05T17:47:48.282Z info: MongoDB connected
+2024-08-05T17:47:51.238Z info: POST /api/users/register
+2024-08-05T17:47:51.252Z error: Error: User already registered
+2024-08-05T18:05:11.238Z info: Server started on port 3000
+2024-08-05T18:05:11.256Z info: MongoDB connected
+2024-08-05T18:05:18.952Z info: POST /api/users/register
+2024-08-05T18:05:37.825Z info: Server started on port 3000
+2024-08-05T18:05:37.830Z info: MongoDB connected
+2024-08-05T18:05:40.062Z info: Server started on port 3000
+2024-08-05T18:05:40.069Z info: MongoDB connected
+2024-08-05T18:05:43.071Z info: POST /api/users/register
+2024-08-05T18:06:10.218Z info: Server started on port 3000
+2024-08-05T18:06:10.224Z info: MongoDB connected
+2024-08-05T18:06:14.498Z info: Server started on port 3000
+2024-08-05T18:06:14.505Z info: MongoDB connected
+2024-08-05T18:06:17.195Z info: POST /api/users/register
+2024-08-05T18:06:17.203Z error: User already registered
+2024-08-05T18:11:24.967Z info: Server started on port 3000
+2024-08-05T18:11:24.973Z info: MongoDB connected
+2024-08-05T19:07:41.222Z info: Server started on port 3000
+2024-08-05T19:07:41.228Z info: MongoDB connected
+2024-08-05T19:07:43.627Z info: POST /api/users/register
+2024-08-05T19:07:43.634Z error: User already registered

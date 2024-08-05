@@ -15,8 +15,9 @@ class UserController {
             logger.info(`User Created ${username} ${email}`)
             res.status(201).json({ token });
         } catch (error) {
-            logger.error(error)
-            next(new CustomError(ERROR_CODES.ALREADY_REGISTERED.message, ERROR_CODES.ALREADY_REGISTERED.code));
+            next(new CustomError(
+                ERROR_CODES.ALREADY_REGISTERED.message,
+                ERROR_CODES.ALREADY_REGISTERED.code));
         }
     }
 
@@ -26,7 +27,9 @@ class UserController {
             const token = await userService.loginUser(email, password);
             res.status(200).json({ token });
         } catch (error) {
-            next(new CustomError(ERROR_CODES.AUTHENTICATION_ERROR.message, ERROR_CODES.AUTHENTICATION_ERROR.code));
+            next(new CustomError(
+                ERROR_CODES.AUTHENTICATION_ERROR.message,
+                ERROR_CODES.AUTHENTICATION_ERROR.code));
         }
     }
 
@@ -35,21 +38,26 @@ class UserController {
     }
 
     googleCallback(req, res, next) {
-        passport.authenticate('google', { failureRedirect: '/api/users/login' }, async (err, user, info) => {
-            if (err) {
-                return next(new CustomError(ERROR_CODES.GOOGLE_AUTHENTICATION_ERROR.message, ERROR_CODES.GOOGLE_AUTHENTICATION_ERROR.code));
-            }
-            if (!user) {
-                return res.redirect('/login');
-            }
-            req.logIn(user, async (err) => {
+        passport.authenticate('google',
+            { failureRedirect: '/api/users/login' }, async (err, user, info) => {
                 if (err) {
-                    return next(new CustomError(ERROR_CODES.GOOGLE_AUTHENTICATION_ERROR.message, ERROR_CODES.GOOGLE_AUTHENTICATION_ERROR.code));
+                    next(new CustomError(
+                        ERROR_CODES.GOOGLE_AUTHENTICATION_ERROR.message,
+                        ERROR_CODES.GOOGLE_AUTHENTICATION_ERROR.code));
                 }
-                const token = await userService.generateToken(user);
-                res.status(200).json({ token });
-            });
-        })(req, res, next);
+                if (!user) {
+                    return res.redirect('/login');
+                }
+                req.logIn(user, async (err) => {
+                    if (err) {
+                        next(new CustomError(
+                            ERROR_CODES.GOOGLE_AUTHENTICATION_ERROR.message,
+                            ERROR_CODES.GOOGLE_AUTHENTICATION_ERROR.code));
+                    }
+                    const token = await userService.generateToken(user);
+                    res.status(200).json({ token });
+                });
+            })(req, res, next);
     }
 }
 

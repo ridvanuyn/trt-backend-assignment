@@ -26,7 +26,6 @@ class TaskService {
     }
 
     async deleteTask(taskId) {
-        console.log(taskId)
         return await this.taskRepository.delete(taskId);
     }
 }
