@@ -15,7 +15,9 @@ class TaskController {
             logger.info(`Task Created ${task}`)
             res.status(201).json(task);
         } catch (error) {
-            next(new CustomError(ERROR_CODES.UNKNOWN_ERROR.message, ERROR_CODES.UNKNOWN_ERROR.code, error.details));
+            next(new CustomError(
+                ERROR_CODES.UNKNOWN_ERROR.message,
+                ERROR_CODES.UNKNOWN_ERROR.code, error.details));
         }
 
 
@@ -24,7 +26,13 @@ class TaskController {
     async getTasks(req, res, next) {
         try {
             const userId = req.user.id;
-            const { page = 1, limit = 10, sort = 'createdAt', order = 'asc', title, description } = req.query;
+            const {
+                page = 1,
+                limit = 10,
+                sort = 'createdAt',
+                order = 'asc',
+                title,
+                description } = req.query;
 
             const filter = {};
             if (title) filter.title = new RegExp(title, 'i');
@@ -32,11 +40,19 @@ class TaskController {
 
             const sortOption = { [sort]: order === 'asc' ? 1 : -1 };
 
-            const { tasks, totalTasks } = await taskService.getTasksByUserId(userId, filter, sortOption, parseInt(page), parseInt(limit));
-            res.status(200).json({ tasks, totalTasks, page: parseInt(page), limit: parseInt(limit) });
+            const { tasks, totalTasks } = await taskService.getTasksByUserId(
+                userId, filter, sortOption, parseInt(page), parseInt(limit));
+            res.status(200).json({
+                tasks,
+                totalTasks,
+                page: parseInt(page),
+                limit: parseInt(limit)
+            });
         } catch (error) {
             logger.error(error)
-            next(new CustomError(ERROR_CODES.OPERATION_NOT_COMLETED.message, ERROR_CODES.OPERATION_NOT_COMLETED.code));
+            next(new CustomError(
+                ERROR_CODES.OPERATION_NOT_COMLETED.message,
+                ERROR_CODES.OPERATION_NOT_COMLETED.code));
         }
     }
 

@@ -37,6 +37,7 @@ app.use((req, res, next) => {
 app.use('/api/tasks', taskRoutes);
 app.use('/api/users', userRoutes);
 app.use(errorHandler);
+
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => logger.info(`Server started on port ${PORT}`));

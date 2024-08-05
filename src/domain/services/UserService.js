@@ -13,7 +13,9 @@ class UserService {
         let existingUser = await this.userRepository.findByEmail(email);
 
         if (existingUser) {
-             throw new CustomError(ERROR_CODES.ALREADY_REGISTERED.message, ERROR_CODES.ALREADY_REGISTERED.code);
+             throw new CustomError(
+                ERROR_CODES.ALREADY_REGISTERED.message, 
+                ERROR_CODES.ALREADY_REGISTERED.code);
         }
 
         const salt = await bcrypt.genSalt(10);

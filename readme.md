@@ -5,7 +5,8 @@ This project is a backend challenge for the TRT Company. It includes several mod
 
 ## Table of Contents
 - [Project Structure](#project-structure)
-- [Project Functionalities](#project-functionalities)
+- [Project Functionalities And Covered Test Cases](#project-functionalities-and-covered-test-cases)
+- [Details of Covered Cases](#details-of-covered-cases)
 - [How to Run](#how-to-run)
 - [Hexagonal Architecture](#hexagonal-architecture)
   - [Benefits](#benefits)
@@ -242,7 +243,6 @@ Hexagonal Architecture, also known as Ports and Adapters, allows the application
 - **helmet:** Helps secure Express apps by setting various HTTP headers.
 - **winston:** A logger for just about everything.
 - **jest:** Delightful JavaScript Testing Framework with a focus on simplicity.
-- **supertest:** HTTP assertions made easy via superagent.
 
 These libraries are chosen to provide a robust and secure backend application, ensuring data validation, authentication, and logging are handled efficiently.
 
