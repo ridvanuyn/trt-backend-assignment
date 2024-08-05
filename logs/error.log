@@ -1,0 +1,65 @@
+2024-08-01T21:36:01.918Z error: Cannot read properties of undefined (reading 'id')
+2024-08-03T11:18:41.891Z error: Cannot read properties of undefined (reading 'id')
+2024-08-03T11:19:35.444Z error: Cannot read properties of undefined (reading 'id')
+2024-08-03T11:30:50.011Z error: Cannot read properties of undefined (reading 'id')
+2024-08-03T11:31:33.866Z error: Cannot read properties of undefined (reading 'taskService')
+2024-08-03T11:32:30.012Z error: Cannot read properties of undefined (reading 'taskService')
+2024-08-03T11:33:02.511Z error: Cannot read properties of undefined (reading 'taskService')
+2024-08-03T11:33:53.885Z error: Cannot read properties of undefined (reading 'taskService')
+2024-08-04T04:05:15.176Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:06:05.236Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:07:39.583Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:07:48.852Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:08:25.775Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T05:19:30.892Z error: Invalid credentials
+2024-08-04T05:19:36.853Z error: User already exists
+2024-08-04T05:19:36.854Z error: Failed to register user
+2024-08-04T05:19:55.627Z error: Failed to update task
+2024-08-04T05:20:31.460Z error: Failed to update task
+2024-08-04T05:21:16.141Z error: Failed to update task
+2024-08-04T05:22:25.855Z error: Not authorized to delete this task
+2024-08-04T05:23:34.505Z error: Not authorized to delete this task
+2024-08-04T05:33:06.376Z error: Failed to retrieve tasks
+2024-08-04T05:33:28.534Z error: this.taskRepository.findByUserId is not a function
+2024-08-04T05:33:28.534Z error: Failed to retrieve tasks
+2024-08-04T05:35:41.358Z error: Task is not defined
+2024-08-04T05:35:41.358Z error: Failed to retrieve tasks
+2024-08-04T05:35:57.390Z error: Task is not defined
+2024-08-04T05:35:57.390Z error: Failed to retrieve tasks
+2024-08-04T05:36:20.581Z error: Task is not defined
+2024-08-04T05:36:20.581Z error: Failed to retrieve tasks
+2024-08-04T05:37:00.530Z error: Task is not defined
+2024-08-04T05:37:00.530Z error: Failed to retrieve tasks
+2024-08-04T05:37:16.676Z error: Task is not defined
+2024-08-04T05:37:16.677Z error: Failed to retrieve tasks
+2024-08-04T05:37:45.009Z error: Task is not defined
+2024-08-04T05:37:45.010Z error: Failed to retrieve tasks
+2024-08-04T05:50:57.829Z error: Not authorized to delete this task
+2024-08-04T05:51:03.471Z error: Not authorized to delete this task
+2024-08-04T05:51:12.161Z error: Not authorized to delete this task
+2024-08-04T05:52:20.279Z error: Validation failed
+2024-08-04T05:52:41.050Z error: Validation failed
+2024-08-04T05:52:55.296Z error: Validation failed
+2024-08-04T06:02:43.276Z error: Token is not valid
+2024-08-04T06:02:56.390Z error: Token is not valid
+2024-08-04T06:02:56.829Z error: Token is not valid
+2024-08-04T06:03:06.454Z error: User already exists
+2024-08-04T06:03:06.455Z error: Failed to register user
+2024-08-04T06:06:37.847Z error: Validation failed
+2024-08-04T06:08:24.534Z error: Validation failed
+2024-08-04T06:08:25.484Z error: Validation failed
+2024-08-04T06:08:52.414Z error: Validation failed
+2024-08-04T06:10:44.320Z error: Validation error
+2024-08-04T06:11:36.155Z error: Validation error
+2024-08-04T06:12:44.115Z error: Validation error
+2024-08-04T06:12:44.958Z error: Validation error
+2024-08-04T06:12:45.728Z error: Validation error
+2024-08-04T06:17:54.267Z error: User already exists
+2024-08-04T06:18:47.639Z error: User already exists
+2024-08-04T06:19:39.763Z error: User already exists
+2024-08-04T06:19:40.647Z error: User already exists
+2024-08-04T06:19:48.380Z error: User already exists
+2024-08-04T06:21:14.341Z error: User already exists
+2024-08-04T06:21:28.308Z error: User already exists
+2024-08-04T06:25:46.997Z error: User already exists
+2024-08-04T06:28:01.005Z error: next is not defined

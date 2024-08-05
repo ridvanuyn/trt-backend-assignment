@@ -1,0 +1,874 @@
+2024-08-01T21:00:08.350Z info: MongoDB connected
+2024-08-01T21:02:21.255Z info: Server started on port 3000
+2024-08-01T21:02:21.261Z info: MongoDB connected
+2024-08-01T21:02:41.929Z info: Server started on port 3000
+2024-08-01T21:02:41.934Z info: MongoDB connected
+2024-08-01T21:02:48.991Z info: Server started on port 3000
+2024-08-01T21:02:48.998Z info: MongoDB connected
+2024-08-01T21:02:54.903Z info: Server started on port 3000
+2024-08-01T21:02:54.909Z info: MongoDB connected
+2024-08-01T21:04:21.262Z info: Server started on port 3000
+2024-08-01T21:04:21.267Z info: MongoDB connected
+2024-08-01T21:05:58.597Z info: Server started on port 3000
+2024-08-01T21:05:58.602Z info: MongoDB connected
+2024-08-01T21:06:44.295Z info: Server started on port 3000
+2024-08-01T21:06:44.300Z info: MongoDB connected
+2024-08-01T21:24:50.686Z info: Server started on port 3000
+2024-08-01T21:24:50.691Z info: MongoDB connected
+2024-08-01T21:25:42.216Z info: Server started on port 3000
+2024-08-01T21:25:42.222Z info: MongoDB connected
+2024-08-01T21:25:49.192Z info: Server started on port 3000
+2024-08-01T21:25:49.198Z info: MongoDB connected
+2024-08-01T21:27:03.815Z info: Server started on port 3000
+2024-08-01T21:27:03.820Z info: MongoDB connected
+2024-08-01T21:27:13.602Z info: Server started on port 3000
+2024-08-01T21:27:13.607Z info: MongoDB connected
+2024-08-01T21:27:25.139Z info: Server started on port 3000
+2024-08-01T21:27:25.146Z info: MongoDB connected
+2024-08-01T21:27:27.336Z info: Server started on port 3000
+2024-08-01T21:27:27.342Z info: MongoDB connected
+2024-08-01T21:27:50.847Z info: Server started on port 3000
+2024-08-01T21:27:50.853Z info: MongoDB connected
+2024-08-01T21:28:14.801Z info: Server started on port 3000
+2024-08-01T21:28:14.807Z info: MongoDB connected
+2024-08-01T21:28:20.867Z info: Server started on port 3000
+2024-08-01T21:28:20.872Z info: MongoDB connected
+2024-08-01T21:33:33.698Z info: Server started on port 3000
+2024-08-01T21:33:33.705Z info: MongoDB connected
+2024-08-01T21:33:47.277Z info: GET /api/tasks/
+2024-08-01T21:34:22.939Z info: POST /api/tasks/
+2024-08-01T21:35:50.689Z info: Server started on port 3000
+2024-08-01T21:35:50.695Z info: MongoDB connected
+2024-08-01T21:36:01.917Z info: POST /api/tasks
+2024-08-01T21:36:01.918Z error: Cannot read properties of undefined (reading 'id')
+2024-08-01T21:37:04.642Z info: Server started on port 3000
+2024-08-01T21:37:04.648Z info: MongoDB connected
+2024-08-03T11:18:41.890Z info: POST /api/tasks
+2024-08-03T11:18:41.891Z error: Cannot read properties of undefined (reading 'id')
+2024-08-03T11:19:08.304Z info: Server started on port 3000
+2024-08-03T11:19:08.310Z info: MongoDB connected
+2024-08-03T11:19:33.030Z info: Server started on port 3000
+2024-08-03T11:19:33.036Z info: MongoDB connected
+2024-08-03T11:19:35.442Z info: POST /api/tasks
+2024-08-03T11:19:35.444Z error: Cannot read properties of undefined (reading 'id')
+2024-08-03T11:23:57.071Z info: Server started on port 3000
+2024-08-03T11:23:57.076Z info: MongoDB connected
+2024-08-03T11:24:10.150Z info: Server started on port 3000
+2024-08-03T11:24:10.156Z info: MongoDB connected
+2024-08-03T11:24:39.705Z info: Server started on port 3000
+2024-08-03T11:24:39.711Z info: MongoDB connected
+2024-08-03T11:24:44.550Z info: POST /api/users/register
+2024-08-03T11:25:01.363Z info: POST /api/users/register
+2024-08-03T11:25:22.081Z info: Server started on port 3000
+2024-08-03T11:25:22.087Z info: MongoDB connected
+2024-08-03T11:25:24.084Z info: POST /api/users/register
+2024-08-03T11:26:13.330Z info: POST /api/users/login
+2024-08-03T11:26:34.787Z info: Server started on port 3000
+2024-08-03T11:26:34.793Z info: MongoDB connected
+2024-08-03T11:26:36.111Z info: Server started on port 3000
+2024-08-03T11:26:36.117Z info: MongoDB connected
+2024-08-03T11:26:58.778Z info: POST /api/users/register
+2024-08-03T11:28:01.951Z info: Server started on port 3000
+2024-08-03T11:28:01.956Z info: MongoDB connected
+2024-08-03T11:28:09.962Z info: POST /api/users/register
+2024-08-03T11:28:30.029Z info: Server started on port 3000
+2024-08-03T11:28:30.035Z info: MongoDB connected
+2024-08-03T11:28:37.671Z info: Server started on port 3000
+2024-08-03T11:28:37.677Z info: MongoDB connected
+2024-08-03T11:28:39.031Z info: POST /api/users/register
+2024-08-03T11:29:01.830Z info: Server started on port 3000
+2024-08-03T11:29:01.836Z info: MongoDB connected
+2024-08-03T11:29:07.968Z info: Server started on port 3000
+2024-08-03T11:29:07.973Z info: MongoDB connected
+2024-08-03T11:29:18.713Z info: POST /api/users/register
+2024-08-03T11:29:28.842Z info: Server started on port 3000
+2024-08-03T11:29:28.847Z info: MongoDB connected
+2024-08-03T11:29:56.959Z info: Server started on port 3000
+2024-08-03T11:29:56.965Z info: MongoDB connected
+2024-08-03T11:30:08.383Z info: POST /api/users/register
+2024-08-03T11:30:50.009Z info: POST /api/tasks
+2024-08-03T11:30:50.011Z error: Cannot read properties of undefined (reading 'id')
+2024-08-03T11:31:30.488Z info: Server started on port 3000
+2024-08-03T11:31:30.494Z info: MongoDB connected
+2024-08-03T11:31:32.029Z info: Server started on port 3000
+2024-08-03T11:31:32.035Z info: MongoDB connected
+2024-08-03T11:31:33.859Z info: POST /api/tasks
+2024-08-03T11:31:33.866Z error: Cannot read properties of undefined (reading 'taskService')
+2024-08-03T11:32:25.545Z info: Server started on port 3000
+2024-08-03T11:32:25.551Z info: MongoDB connected
+2024-08-03T11:32:29.997Z info: POST /api/tasks
+2024-08-03T11:32:30.012Z error: Cannot read properties of undefined (reading 'taskService')
+2024-08-03T11:32:57.582Z info: Server started on port 3000
+2024-08-03T11:32:57.587Z info: MongoDB connected
+2024-08-03T11:33:02.498Z info: POST /api/tasks
+2024-08-03T11:33:02.511Z error: Cannot read properties of undefined (reading 'taskService')
+2024-08-03T11:33:50.536Z info: Server started on port 3000
+2024-08-03T11:33:50.541Z info: MongoDB connected
+2024-08-03T11:33:53.873Z info: POST /api/tasks
+2024-08-03T11:33:53.885Z error: Cannot read properties of undefined (reading 'taskService')
+2024-08-03T11:34:43.153Z info: Server started on port 3000
+2024-08-03T11:34:43.159Z info: MongoDB connected
+2024-08-03T11:35:03.302Z info: Server started on port 3000
+2024-08-03T11:35:03.308Z info: MongoDB connected
+2024-08-03T11:39:03.068Z info: Server started on port 3000
+2024-08-03T11:39:03.073Z info: MongoDB connected
+2024-08-03T11:39:12.439Z info: POST /api/tasks
+2024-08-03T11:39:20.880Z info: Server started on port 3000
+2024-08-03T11:39:20.886Z info: MongoDB connected
+2024-08-03T11:39:59.946Z info: POST /api/tasks/66ae16e00711c902abcc0f1a
+2024-08-03T11:40:02.827Z info: GET /api/tasks/66ae16e00711c902abcc0f1a
+2024-08-03T11:50:33.497Z info: Server started on port 3000
+2024-08-03T11:50:33.504Z info: MongoDB connected
+2024-08-03T11:50:58.526Z info: POST /api/users/register
+2024-08-03T11:51:12.263Z info: GET /api/tasks/66ae16e00711c902abcc0f1a
+2024-08-03T11:52:01.731Z info: Server started on port 3000
+2024-08-03T11:52:01.737Z info: MongoDB connected
+2024-08-03T11:56:53.534Z info: Server started on port 3000
+2024-08-03T11:56:53.540Z info: MongoDB connected
+2024-08-03T11:58:43.380Z info: Server started on port 3000
+2024-08-03T11:58:43.385Z info: MongoDB connected
+2024-08-03T12:03:10.780Z info: Server started on port 3000
+2024-08-03T12:03:10.786Z info: MongoDB connected
+2024-08-03T12:05:01.136Z info: Server started on port 3000
+2024-08-03T12:05:01.142Z info: MongoDB connected
+2024-08-03T12:11:11.959Z info: Server started on port 3000
+2024-08-03T12:11:11.964Z info: MongoDB connected
+2024-08-03T12:33:35.302Z info: Server started on port 3000
+2024-08-03T12:33:35.308Z info: MongoDB connected
+2024-08-03T12:34:41.306Z info: GET /api/users/google
+2024-08-03T12:35:13.617Z info: Server started on port 3000
+2024-08-03T12:35:13.622Z info: MongoDB connected
+2024-08-03T12:35:15.774Z info: Server started on port 3000
+2024-08-03T12:35:15.779Z info: MongoDB connected
+2024-08-03T12:35:22.834Z info: GET /api/users/google
+2024-08-03T12:35:56.013Z info: Server started on port 3000
+2024-08-03T12:35:56.019Z info: MongoDB connected
+2024-08-03T12:36:13.111Z info: GET /api/users/google
+2024-08-03T12:38:03.198Z info: Server started on port 3000
+2024-08-03T12:38:03.204Z info: MongoDB connected
+2024-08-03T12:43:46.369Z info: Server started on port 3000
+2024-08-03T12:43:46.376Z info: MongoDB connected
+2024-08-03T12:43:50.700Z info: Server started on port 3000
+2024-08-03T12:43:50.705Z info: MongoDB connected
+2024-08-03T12:43:57.895Z info: Server started on port 3000
+2024-08-03T12:43:57.901Z info: MongoDB connected
+2024-08-03T12:48:46.314Z info: Server started on port 3000
+2024-08-03T12:48:46.320Z info: MongoDB connected
+2024-08-03T12:48:50.613Z info: GET /api/users/google
+2024-08-03T12:49:26.456Z info: GET /api/users/google
+2024-08-03T12:52:42.214Z info: GET /api/users/google
+2024-08-03T12:59:07.164Z info: GET /api/users/google
+2024-08-03T13:00:29.825Z info: Server started on port 3000
+2024-08-03T13:00:29.831Z info: MongoDB connected
+2024-08-03T13:00:37.336Z info: GET /api/users/google
+2024-08-03T13:00:37.614Z info: GET /api/users/google
+2024-08-03T13:00:49.071Z info: GET /users/auth/google/callback
+2024-08-03T13:01:02.066Z info: GET /auth/google/callback
+2024-08-03T13:01:11.089Z info: GET /api/auth/google/callback
+2024-08-03T13:01:17.682Z info: GET /api/users/auth/google/callback
+2024-08-03T13:02:34.442Z info: GET /api/users/google
+2024-08-03T13:02:35.237Z info: GET /api/users/google
+2024-08-03T13:03:13.135Z info: Server started on port 3000
+2024-08-03T13:03:13.141Z info: MongoDB connected
+2024-08-03T13:03:44.774Z info: GET /api/users/google
+2024-08-03T13:03:49.667Z info: GET /api/users/google
+2024-08-03T13:04:02.865Z info: GET /auth/google/callback?code=4%2F0AcvDMrCy2KZNWIkwIb4tuy_J62_QS5g93QECJsUKz-LhkW7Bz7sgOOgnOlhkQc92o0ELoQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
+2024-08-03T13:04:56.560Z info: Server started on port 3000
+2024-08-03T13:04:56.566Z info: MongoDB connected
+2024-08-03T13:05:17.529Z info: GET /api/users/google
+2024-08-03T13:05:18.555Z info: GET /api/users/google
+2024-08-03T13:06:18.179Z info: GET /api/users/google
+2024-08-03T13:06:18.723Z info: GET /api/users/google
+2024-08-03T13:06:26.910Z info: GET /api/users/google/callback?code=4%2F0AcvDMrDTN0ToWBtJWL3eXc_GEniBIg3YRwu7mqByAYXINw-jZIPs-elNsnknq75QpYxYFQ&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=0&prompt=consent
+2024-08-03T13:07:30.010Z info: Server started on port 3000
+2024-08-03T13:07:30.016Z info: MongoDB connected
+2024-08-03T13:07:45.224Z info: Server started on port 3000
+2024-08-03T13:07:45.230Z info: MongoDB connected
+2024-08-03T13:07:54.889Z info: GET /api/users/google
+2024-08-03T13:07:55.726Z info: GET /api/users/google
+2024-08-03T13:08:03.452Z info: GET /api/users/google
+2024-08-03T13:08:04.471Z info: GET /api/users/google
+2024-08-03T13:08:29.507Z info: GET /api/users/google/callback?code=4/0AcvDMrD9alRQIrbntrn9p_S37SSVxuWH576GWTDfhu-pw_aCDA7k18K8V8IQSpt8aJ_BKQ&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=consent
+2024-08-03T13:08:30.563Z info: GET /favicon.ico
+2024-08-03T13:09:06.248Z info: Server started on port 3000
+2024-08-03T13:09:06.253Z info: MongoDB connected
+2024-08-03T13:09:08.636Z info: Server started on port 3000
+2024-08-03T13:09:08.642Z info: MongoDB connected
+2024-08-03T13:09:18.660Z info: GET /api/users/google
+2024-08-03T13:09:19.218Z info: GET /api/users/google
+2024-08-03T13:09:31.340Z info: GET /api/users/google/callback?code=4/0AcvDMrBsx0VCkyREjvOuAvTVDPBcsjyNNp8e-kY5myUQ6v5pYycpR21QNgodEwtixnv5Iw&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=consent
+2024-08-03T13:12:27.049Z info: Server started on port 3000
+2024-08-03T13:12:27.055Z info: MongoDB connected
+2024-08-03T13:12:33.061Z info: GET /api/users/google
+2024-08-03T13:12:34.283Z info: GET /api/users/google
+2024-08-03T13:12:49.455Z info: Server started on port 3000
+2024-08-03T13:12:49.461Z info: MongoDB connected
+2024-08-03T13:12:51.249Z info: GET /api/users/google
+2024-08-03T13:12:51.733Z info: GET /api/users/google
+2024-08-03T13:12:56.602Z info: GET /api/users/google/callback?code=4/0AcvDMrBJx31YLhOEJucY5R6T75h8KY5nfBkPtQdRVS3E3ow9sXIVKZiGB-jvkAf-a8z2MQ&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=consent
+2024-08-03T13:15:11.021Z info: POST /api/users/register
+2024-08-03T13:15:55.549Z info: Server started on port 3000
+2024-08-03T13:15:55.555Z info: MongoDB connected
+2024-08-03T13:15:57.043Z info: Server started on port 3000
+2024-08-03T13:15:57.048Z info: MongoDB connected
+2024-08-03T13:15:59.456Z info: GET /api/users/google
+2024-08-03T13:16:00.145Z info: GET /api/users/google
+2024-08-03T13:16:12.147Z info: Server started on port 3000
+2024-08-03T13:16:12.152Z info: MongoDB connected
+2024-08-03T13:16:14.702Z info: GET /api/users/google
+2024-08-03T13:16:19.150Z info: GET /api/users/google/callback?code=4/0AcvDMrAMJxQH2WCiusrqEjJgJM0Vs7dVT14oOWZ64JimIXRG1zRxHQ5mnUyavRl826gVjA&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=consent
+2024-08-03T13:16:58.452Z info: Server started on port 3000
+2024-08-03T13:16:58.458Z info: MongoDB connected
+2024-08-03T13:17:03.986Z info: Server started on port 3000
+2024-08-03T13:17:03.992Z info: MongoDB connected
+2024-08-03T13:17:28.484Z info: Server started on port 3000
+2024-08-03T13:17:28.489Z info: MongoDB connected
+2024-08-03T13:17:48.359Z info: Server started on port 3000
+2024-08-03T13:17:48.365Z info: MongoDB connected
+2024-08-03T13:17:52.562Z info: GET /api/users/google
+2024-08-03T13:17:54.122Z info: GET /api/users/google
+2024-08-03T13:18:06.085Z info: Server started on port 3000
+2024-08-03T13:18:06.091Z info: MongoDB connected
+2024-08-03T13:18:06.994Z info: GET /api/users/google
+2024-08-03T13:18:07.544Z info: GET /api/users/google
+2024-08-03T13:18:11.778Z info: GET /api/users/google/callback?code=4%2F0AcvDMrBZfEhQ5WLKs2v8vTvXJIo2VsWt2xUS4hx8g7PprDPUbYLZ0kaZyz3sB8s5vbnluw&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=1&prompt=consent
+2024-08-03T13:19:02.324Z info: Server started on port 3000
+2024-08-03T13:19:02.329Z info: MongoDB connected
+2024-08-03T13:19:04.410Z info: Server started on port 3000
+2024-08-03T13:19:04.416Z info: MongoDB connected
+2024-08-03T13:19:06.593Z info: Server started on port 3000
+2024-08-03T13:19:06.598Z info: MongoDB connected
+2024-08-03T13:19:09.493Z info: GET /api/users/google
+2024-08-03T13:19:09.955Z info: GET /api/users/google
+2024-08-03T13:19:16.477Z info: Server started on port 3000
+2024-08-03T13:19:16.482Z info: MongoDB connected
+2024-08-03T13:19:17.099Z info: GET /api/users/google
+2024-08-03T13:19:17.632Z info: GET /api/users/google
+2024-08-03T13:19:22.989Z info: GET /api/users/google/callback?code=4/0AcvDMrCQQZbigolzoRjL0XRZVWNRn_x__f54doq_Pe_i_y-5HFRRz-We4QANhvLKjBE41g&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=consent
+2024-08-03T13:19:52.100Z info: Server started on port 3000
+2024-08-03T13:19:52.106Z info: MongoDB connected
+2024-08-03T13:19:54.919Z info: GET /api/users/google
+2024-08-03T13:19:56.201Z info: GET /api/users/google
+2024-08-03T13:20:02.559Z info: GET /api/users/google/callback?code=4/0AcvDMrBI_37aJExdM9M1DFr2NQoEEpuPTKPAy9eQKZ0O0VmDDPNiCU7FiY16IGxV8xn8-w&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent
+2024-08-03T13:22:34.444Z info: Server started on port 3000
+2024-08-03T13:22:34.450Z info: MongoDB connected
+2024-08-03T13:22:51.973Z info: Server started on port 3000
+2024-08-03T13:22:51.978Z info: MongoDB connected
+2024-08-03T13:23:07.080Z info: Server started on port 3000
+2024-08-03T13:23:07.085Z info: MongoDB connected
+2024-08-03T13:23:23.801Z info: Server started on port 3000
+2024-08-03T13:23:23.806Z info: MongoDB connected
+2024-08-03T13:23:42.681Z info: Server started on port 3000
+2024-08-03T13:23:42.687Z info: MongoDB connected
+2024-08-03T13:23:46.071Z info: GET /api/users/google
+2024-08-03T13:23:46.895Z info: GET /api/users/google
+2024-08-03T13:23:55.061Z info: Server started on port 3000
+2024-08-03T13:23:55.067Z info: MongoDB connected
+2024-08-03T13:23:57.408Z info: GET /api/users/google
+2024-08-03T13:23:57.937Z info: GET /api/users/google
+2024-08-03T13:24:04.499Z info: GET /api/users/google/callback?code=4%2F0AcvDMrCrrP3JYDzmrEKm-J_ZeC4-RfAcbO6pvgND4MEq6f433jNdJlwgYoRL7KsA3NnB9A&scope=email+profile+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&authuser=2&prompt=consent
+2024-08-03T13:25:14.994Z info: Server started on port 3000
+2024-08-03T13:25:14.999Z info: MongoDB connected
+2024-08-03T13:25:39.712Z info: Server started on port 3000
+2024-08-03T13:25:39.718Z info: MongoDB connected
+2024-08-03T13:25:40.930Z info: GET /api/users/google
+2024-08-03T13:25:45.072Z info: GET /api/users/google/callback?code=4/0AcvDMrDmvj2rd09pwFK5foX1cTXGvOjWqpTxg0M72z7d-ObLoBOWDxbM6SY786uR2YGTpg&scope=email%20profile%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=consent
+2024-08-03T13:25:54.261Z info: Server started on port 3000
+2024-08-03T13:25:54.267Z info: MongoDB connected
+2024-08-04T02:58:21.386Z info: Server started on port 3000
+2024-08-04T02:58:21.392Z info: MongoDB connected
+2024-08-04T03:00:49.193Z info: Server started on port 3000
+2024-08-04T03:00:49.198Z info: MongoDB connected
+2024-08-04T03:01:02.530Z info: POST /api/tasks
+2024-08-04T03:01:13.103Z info: POST /api/users/login
+2024-08-04T03:02:03.747Z info: POST /api/users/register
+2024-08-04T03:02:09.230Z info: POST /api/users/register
+2024-08-04T03:03:30.897Z info: Server started on port 3000
+2024-08-04T03:03:30.902Z info: MongoDB connected
+2024-08-04T03:03:41.685Z info: POST /api/users/register
+2024-08-04T03:03:59.669Z info: POST /api/users/register
+2024-08-04T03:04:40.608Z info: POST /api/users/register
+2024-08-04T03:05:31.118Z info: Server started on port 3000
+2024-08-04T03:05:31.124Z info: MongoDB connected
+2024-08-04T03:05:42.149Z info: POST /api/users/register
+2024-08-04T03:05:57.658Z info: Server started on port 3000
+2024-08-04T03:05:57.664Z info: MongoDB connected
+2024-08-04T03:06:11.309Z info: POST /api/users/register
+2024-08-04T03:06:42.451Z info: Server started on port 3000
+2024-08-04T03:06:42.457Z info: MongoDB connected
+2024-08-04T03:06:59.762Z info: POST /api/users/register
+2024-08-04T03:07:19.643Z info: POST /api/tasks
+2024-08-04T03:07:56.302Z info: Server started on port 3000
+2024-08-04T03:07:56.308Z info: MongoDB connected
+2024-08-04T03:09:52.683Z info: Server started on port 3000
+2024-08-04T03:09:52.689Z info: MongoDB connected
+2024-08-04T03:09:58.659Z info: POST /api/tasks
+2024-08-04T03:09:59.975Z info: POST /api/tasks
+2024-08-04T03:10:00.744Z info: POST /api/tasks
+2024-08-04T03:10:01.275Z info: POST /api/tasks
+2024-08-04T03:10:02.121Z info: POST /api/tasks
+2024-08-04T03:10:02.680Z info: POST /api/tasks
+2024-08-04T03:10:03.738Z info: POST /api/tasks
+2024-08-04T03:10:05.475Z info: POST /api/tasks
+2024-08-04T03:10:06.238Z info: POST /api/tasks
+2024-08-04T03:10:07.356Z info: POST /api/tasks
+2024-08-04T03:10:08.973Z info: POST /api/tasks
+2024-08-04T03:10:11.371Z info: POST /api/tasks
+2024-08-04T03:10:11.913Z info: POST /api/tasks
+2024-08-04T03:10:50.822Z info: POST /api/tasks
+2024-08-04T03:10:51.381Z info: POST /api/tasks
+2024-08-04T03:10:51.951Z info: POST /api/tasks
+2024-08-04T03:10:52.648Z info: POST /api/tasks
+2024-08-04T03:10:53.314Z info: POST /api/tasks
+2024-08-04T03:10:53.938Z info: POST /api/tasks
+2024-08-04T03:10:54.554Z info: POST /api/tasks
+2024-08-04T03:10:55.154Z info: POST /api/tasks
+2024-08-04T03:10:55.762Z info: POST /api/tasks
+2024-08-04T03:10:56.438Z info: POST /api/tasks
+2024-08-04T03:10:57.061Z info: POST /api/tasks
+2024-08-04T03:10:57.629Z info: POST /api/tasks
+2024-08-04T03:10:58.224Z info: POST /api/tasks
+2024-08-04T03:10:58.886Z info: POST /api/tasks
+2024-08-04T03:10:59.438Z info: POST /api/tasks
+2024-08-04T03:11:00.051Z info: POST /api/tasks
+2024-08-04T03:11:00.671Z info: POST /api/tasks
+2024-08-04T03:11:01.228Z info: POST /api/tasks
+2024-08-04T03:11:01.751Z info: POST /api/tasks
+2024-08-04T03:11:02.359Z info: POST /api/tasks
+2024-08-04T03:11:02.995Z info: POST /api/tasks
+2024-08-04T03:11:03.575Z info: POST /api/tasks
+2024-08-04T03:11:04.259Z info: POST /api/tasks
+2024-08-04T03:11:04.947Z info: POST /api/tasks
+2024-08-04T03:11:05.525Z info: POST /api/tasks
+2024-08-04T03:11:06.098Z info: POST /api/tasks
+2024-08-04T03:11:06.753Z info: POST /api/tasks
+2024-08-04T03:11:07.367Z info: POST /api/tasks
+2024-08-04T03:11:08.036Z info: POST /api/tasks
+2024-08-04T03:11:22.001Z info: Server started on port 3000
+2024-08-04T03:11:22.007Z info: MongoDB connected
+2024-08-04T03:11:24.909Z info: POST /api/tasks
+2024-08-04T03:12:48.404Z info: Server started on port 3000
+2024-08-04T03:12:48.409Z info: MongoDB connected
+2024-08-04T03:13:07.025Z info: Server started on port 3000
+2024-08-04T03:13:07.031Z info: MongoDB connected
+2024-08-04T03:17:52.121Z info: Server started on port 3000
+2024-08-04T03:17:52.127Z info: MongoDB connected
+2024-08-04T03:18:07.253Z info: Server started on port 3000
+2024-08-04T03:18:07.259Z info: MongoDB connected
+2024-08-04T03:19:13.331Z info: Server started on port 3000
+2024-08-04T03:19:13.337Z info: MongoDB connected
+2024-08-04T03:20:15.344Z info: Server started on port 3000
+2024-08-04T03:20:15.349Z info: MongoDB connected
+2024-08-04T03:20:41.731Z info: Server started on port 3000
+2024-08-04T03:20:41.737Z info: MongoDB connected
+2024-08-04T03:20:44.872Z info: Server started on port 3000
+2024-08-04T03:20:44.878Z info: MongoDB connected
+2024-08-04T03:21:33.609Z info: Server started on port 3000
+2024-08-04T03:21:33.614Z info: MongoDB connected
+2024-08-04T03:23:01.857Z info: Server started on port 3000
+2024-08-04T03:23:01.863Z info: MongoDB connected
+2024-08-04T03:23:05.666Z info: Server started on port 3000
+2024-08-04T03:23:05.672Z info: MongoDB connected
+2024-08-04T03:23:09.119Z info: Server started on port 3000
+2024-08-04T03:23:09.124Z info: MongoDB connected
+2024-08-04T03:23:40.012Z info: Server started on port 3000
+2024-08-04T03:23:40.017Z info: MongoDB connected
+2024-08-04T03:23:48.289Z info: Server started on port 3000
+2024-08-04T03:23:48.295Z info: MongoDB connected
+2024-08-04T03:24:35.126Z info: Server started on port 3000
+2024-08-04T03:24:35.132Z info: MongoDB connected
+2024-08-04T03:28:37.308Z info: Server started on port 3000
+2024-08-04T03:28:37.314Z info: MongoDB connected
+2024-08-04T03:44:02.625Z info: Server started on port 3000
+2024-08-04T03:44:02.631Z info: MongoDB connected
+2024-08-04T03:44:27.257Z info: Server started on port 3000
+2024-08-04T03:44:27.263Z info: MongoDB connected
+2024-08-04T03:44:39.280Z info: POST /api/tasks
+2024-08-04T03:44:44.734Z info: Server started on port 3000
+2024-08-04T03:44:44.750Z info: MongoDB connected
+2024-08-04T03:44:46.935Z info: POST /api/tasks
+2024-08-04T03:46:06.274Z info: Server started on port 3000
+2024-08-04T03:46:06.280Z info: MongoDB connected
+2024-08-04T03:46:11.277Z info: POST /api/tasks
+2024-08-04T03:47:06.522Z info: POST /api/users/login
+2024-08-04T03:48:42.377Z info: Server started on port 3000
+2024-08-04T03:48:42.382Z info: MongoDB connected
+2024-08-04T03:48:45.918Z info: POST /api/users/login
+2024-08-04T03:48:47.107Z info: POST /api/users/login
+2024-08-04T03:49:20.543Z info: Server started on port 3000
+2024-08-04T03:49:20.550Z info: MongoDB connected
+2024-08-04T03:49:23.575Z info: POST /api/users/login
+2024-08-04T03:49:50.805Z info: Server started on port 3000
+2024-08-04T03:49:50.813Z info: MongoDB connected
+2024-08-04T03:49:54.287Z info: POST /api/users/login
+2024-08-04T03:50:05.378Z info: Server started on port 3000
+2024-08-04T03:50:05.385Z info: MongoDB connected
+2024-08-04T03:50:55.017Z info: Server started on port 3000
+2024-08-04T03:50:55.023Z info: MongoDB connected
+2024-08-04T03:50:56.915Z info: POST /api/users/login
+2024-08-04T03:51:04.232Z info: Server started on port 3000
+2024-08-04T03:51:04.239Z info: MongoDB connected
+2024-08-04T03:51:14.063Z info: POST /api/tasks
+2024-08-04T03:51:16.660Z info: POST /api/tasks
+2024-08-04T03:51:51.499Z info: Server started on port 3000
+2024-08-04T03:51:51.505Z info: MongoDB connected
+2024-08-04T03:51:53.316Z info: POST /api/tasks
+2024-08-04T03:53:12.120Z info: Server started on port 3000
+2024-08-04T03:53:12.127Z info: MongoDB connected
+2024-08-04T03:53:16.091Z info: POST /api/tasks
+2024-08-04T03:53:17.080Z info: POST /api/tasks
+2024-08-04T03:54:08.107Z info: Server started on port 3000
+2024-08-04T03:54:08.113Z info: MongoDB connected
+2024-08-04T03:54:10.460Z info: POST /api/tasks
+2024-08-04T03:54:11.302Z info: POST /api/tasks
+2024-08-04T03:55:08.473Z info: Server started on port 3000
+2024-08-04T03:55:08.479Z info: MongoDB connected
+2024-08-04T03:55:10.161Z info: POST /api/tasks
+2024-08-04T03:55:24.774Z info: Server started on port 3000
+2024-08-04T03:55:24.780Z info: MongoDB connected
+2024-08-04T03:55:26.607Z info: POST /api/tasks
+2024-08-04T03:55:37.390Z info: Server started on port 3000
+2024-08-04T03:55:37.397Z info: MongoDB connected
+2024-08-04T03:55:39.702Z info: POST /api/tasks
+2024-08-04T03:56:00.457Z info: Server started on port 3000
+2024-08-04T03:56:00.463Z info: MongoDB connected
+2024-08-04T03:56:15.822Z info: Server started on port 3000
+2024-08-04T03:56:15.829Z info: MongoDB connected
+2024-08-04T03:56:17.350Z info: POST /api/tasks
+2024-08-04T03:57:39.874Z info: Server started on port 3000
+2024-08-04T03:57:39.881Z info: MongoDB connected
+2024-08-04T03:57:44.345Z info: POST /api/tasks
+2024-08-04T03:57:53.658Z info: POST /api/users/login
+2024-08-04T03:59:20.346Z info: POST /api/tasks
+2024-08-04T03:59:34.729Z info: POST /api/tasks
+2024-08-04T04:00:24.844Z info: Server started on port 3000
+2024-08-04T04:00:24.851Z info: MongoDB connected
+2024-08-04T04:00:45.658Z info: Server started on port 3000
+2024-08-04T04:00:45.665Z info: MongoDB connected
+2024-08-04T04:00:59.592Z info: Server started on port 3000
+2024-08-04T04:00:59.599Z info: MongoDB connected
+2024-08-04T04:01:03.556Z info: Server started on port 3000
+2024-08-04T04:01:03.562Z info: MongoDB connected
+2024-08-04T04:02:04.624Z info: Server started on port 3000
+2024-08-04T04:02:04.631Z info: MongoDB connected
+2024-08-04T04:02:08.463Z info: POST /api/tasks
+2024-08-04T04:02:08.479Z info: Server started on port {
+  title: 'Saç',
+  description: 'This is a sample task description.',
+  userId: new ObjectId("66aef053e8494f426cd71bc0"),
+  _id: new ObjectId("66aefd40aade1063fb08cd96"),
+  createdAt: 2024-08-04T04:02:08.476Z,
+  updatedAt: 2024-08-04T04:02:08.476Z,
+  __v: 0
+}
+2024-08-04T04:02:46.180Z info: Server started on port 3000
+2024-08-04T04:02:46.186Z info: MongoDB connected
+2024-08-04T04:02:52.113Z info: Server started on port 3000
+2024-08-04T04:02:52.120Z info: MongoDB connected
+2024-08-04T04:03:41.245Z info: Server started on port 3000
+2024-08-04T04:03:41.250Z info: MongoDB connected
+2024-08-04T04:04:28.313Z info: POST /api/users/register
+2024-08-04T04:04:36.007Z info: POST /api/users/register
+2024-08-04T04:05:13.077Z info: Server started on port 3000
+2024-08-04T04:05:13.084Z info: MongoDB connected
+2024-08-04T04:05:15.080Z info: POST /api/users/register
+2024-08-04T04:05:15.176Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:06:05.138Z info: POST /api/users/register
+2024-08-04T04:06:05.236Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:07:35.770Z info: Server started on port 3000
+2024-08-04T04:07:35.776Z info: MongoDB connected
+2024-08-04T04:07:39.488Z info: POST /api/users/register
+2024-08-04T04:07:39.583Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:07:46.532Z info: Server started on port 3000
+2024-08-04T04:07:46.539Z info: MongoDB connected
+2024-08-04T04:07:48.748Z info: POST /api/users/register
+2024-08-04T04:07:48.852Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:08:21.092Z info: Server started on port 3000
+2024-08-04T04:08:21.099Z info: MongoDB connected
+2024-08-04T04:08:25.671Z info: POST /api/users/register
+2024-08-04T04:08:25.775Z error: E11000 duplicate key error collection: taskdb.users index: googleId_1 dup key: { googleId: null }
+2024-08-04T04:09:15.182Z info: POST /api/users/register
+2024-08-04T04:09:15.283Z info: User Created ridvan ridvan.uyn6@gmail.com
+2024-08-04T05:01:52.463Z info: Server started on port 3000
+2024-08-04T05:01:52.469Z info: MongoDB connected
+2024-08-04T05:02:04.144Z info: POST /api/tasks
+2024-08-04T05:02:42.969Z info: POST /api/users/login
+2024-08-04T05:02:56.333Z info: POST /api/tasks
+2024-08-04T05:02:56.363Z info: Task Created {
+  title: 'Saç',
+  description: 'This is a sample task description.',
+  userId: new ObjectId("66aef053e8494f426cd71bc0"),
+  _id: new ObjectId("66af0b803b1b5dcdf313e7b0"),
+  createdAt: 2024-08-04T05:02:56.356Z,
+  updatedAt: 2024-08-04T05:02:56.356Z,
+  __v: 0
+}
+2024-08-04T05:03:38.099Z info: PUT /api/tasks/66af0b803b1b5dcdf313e7b0
+2024-08-04T05:03:53.213Z info: DELETE /api/tasks/66af0b803b1b5dcdf313e7b0
+2024-08-04T05:04:08.274Z info: Server started on port 3000
+2024-08-04T05:04:08.279Z info: MongoDB connected
+2024-08-04T05:04:09.652Z info: DELETE /api/tasks/66af0b803b1b5dcdf313e7b0
+2024-08-04T05:05:22.301Z info: Server started on port 3000
+2024-08-04T05:05:22.308Z info: MongoDB connected
+2024-08-04T05:05:23.835Z info: DELETE /api/tasks/66af0b803b1b5dcdf313e7b0
+2024-08-04T05:06:17.012Z info: Server started on port 3000
+2024-08-04T05:06:17.020Z info: MongoDB connected
+2024-08-04T05:06:18.375Z info: DELETE /api/tasks/66af0b803b1b5dcdf313e7b0
+2024-08-04T05:09:55.568Z info: Server started on port 3000
+2024-08-04T05:09:55.574Z info: MongoDB connected
+2024-08-04T05:09:58.380Z info: DELETE /api/tasks/66af0b803b1b5dcdf313e7b0
+2024-08-04T05:09:58.393Z info: Task Deleted 66af0b803b1b5dcdf313e7b0
+2024-08-04T05:10:14.206Z info: Server started on port 3000
+2024-08-04T05:10:14.211Z info: MongoDB connected
+2024-08-04T05:10:59.310Z info: POST /api/tasks
+2024-08-04T05:10:59.324Z info: Task Created {
+  title: 'Saç',
+  description: 'This is a sample task description.',
+  userId: new ObjectId("66aef053e8494f426cd71bc0"),
+  _id: new ObjectId("66af0d630e85b78217f5ad61"),
+  createdAt: 2024-08-04T05:10:59.321Z,
+  updatedAt: 2024-08-04T05:10:59.321Z,
+  __v: 0
+}
+2024-08-04T05:11:09.056Z info: Server started on port 3000
+2024-08-04T05:11:09.061Z info: MongoDB connected
+2024-08-04T05:11:11.264Z info: DELETE /api/tasks/66af0d630e85b78217f5ad61
+2024-08-04T05:12:38.378Z info: Server started on port 3000
+2024-08-04T05:12:38.384Z info: MongoDB connected
+2024-08-04T05:12:42.490Z info: DELETE /api/tasks/66af0d630e85b78217f5ad61
+2024-08-04T05:12:42.506Z info: Task Deleted 66af0d630e85b78217f5ad61
+2024-08-04T05:13:49.885Z info: Server started on port 3000
+2024-08-04T05:13:49.892Z info: MongoDB connected
+2024-08-04T05:13:56.794Z info: POST /api/tasks
+2024-08-04T05:13:56.818Z info: Task Created {
+  title: 'Saç',
+  description: 'This is a sample task description.',
+  userId: new ObjectId("66aef053e8494f426cd71bc0"),
+  _id: new ObjectId("66af0e142edecfabdbd2270c"),
+  createdAt: 2024-08-04T05:13:56.814Z,
+  updatedAt: 2024-08-04T05:13:56.814Z,
+  __v: 0
+}
+2024-08-04T05:14:02.139Z info: DELETE /api/tasks/66af0e142edecfabdbd2270c
+2024-08-04T05:14:02.156Z info: Task Deleted 66af0e142edecfabdbd2270c
+2024-08-04T05:14:16.454Z info: Server started on port 3000
+2024-08-04T05:14:16.460Z info: MongoDB connected
+2024-08-04T05:16:30.095Z info: Server started on port 3000
+2024-08-04T05:16:30.102Z info: MongoDB connected
+2024-08-04T05:16:42.122Z info: POST /api/tasks
+2024-08-04T05:16:42.140Z info: Task Created {
+  title: 'Saç',
+  description: 'This is a sample task description.',
+  userId: new ObjectId("66aef053e8494f426cd71bc0"),
+  _id: new ObjectId("66af0eba518541caf6296133"),
+  createdAt: 2024-08-04T05:16:42.136Z,
+  updatedAt: 2024-08-04T05:16:42.136Z,
+  __v: 0
+}
+2024-08-04T05:16:54.949Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:18:41.954Z info: Server started on port 3000
+2024-08-04T05:18:41.960Z info: MongoDB connected
+2024-08-04T05:18:52.214Z info: Server started on port 3000
+2024-08-04T05:18:52.221Z info: MongoDB connected
+2024-08-04T05:19:02.490Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:19:30.888Z info: POST /api/users/login
+2024-08-04T05:19:30.892Z error: Invalid credentials
+2024-08-04T05:19:36.849Z info: POST /api/users/register
+2024-08-04T05:19:36.853Z error: User already exists
+2024-08-04T05:19:36.854Z error: Failed to register user
+2024-08-04T05:19:43.631Z info: POST /api/users/login
+2024-08-04T05:19:55.615Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:19:55.627Z error: Failed to update task
+2024-08-04T05:20:27.757Z info: Server started on port 3000
+2024-08-04T05:20:27.764Z info: MongoDB connected
+2024-08-04T05:20:31.440Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:20:31.460Z error: Failed to update task
+2024-08-04T05:21:13.582Z info: Server started on port 3000
+2024-08-04T05:21:13.589Z info: MongoDB connected
+2024-08-04T05:21:16.119Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:21:16.141Z error: Failed to update task
+2024-08-04T05:21:48.193Z info: Server started on port 3000
+2024-08-04T05:21:48.199Z info: MongoDB connected
+2024-08-04T05:21:50.649Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:22:22.529Z info: Server started on port 3000
+2024-08-04T05:22:22.536Z info: MongoDB connected
+2024-08-04T05:22:25.838Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:22:25.855Z error: Not authorized to delete this task
+2024-08-04T05:23:34.494Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:23:34.505Z error: Not authorized to delete this task
+2024-08-04T05:24:29.702Z info: Server started on port 3000
+2024-08-04T05:24:29.709Z info: MongoDB connected
+2024-08-04T05:29:21.042Z info: Server started on port 3000
+2024-08-04T05:29:21.048Z info: MongoDB connected
+2024-08-04T05:31:25.963Z info: Server started on port 3000
+2024-08-04T05:31:25.971Z info: MongoDB connected
+2024-08-04T05:32:19.101Z info: Server started on port 3000
+2024-08-04T05:32:19.108Z info: MongoDB connected
+2024-08-04T05:33:06.363Z info: GET /api/tasks
+2024-08-04T05:33:06.376Z error: Failed to retrieve tasks
+2024-08-04T05:33:26.559Z info: Server started on port 3000
+2024-08-04T05:33:26.565Z info: MongoDB connected
+2024-08-04T05:33:28.528Z info: GET /api/tasks
+2024-08-04T05:33:28.534Z error: this.taskRepository.findByUserId is not a function
+2024-08-04T05:33:28.534Z error: Failed to retrieve tasks
+2024-08-04T05:35:36.203Z info: Server started on port 3000
+2024-08-04T05:35:36.210Z info: MongoDB connected
+2024-08-04T05:35:38.126Z info: Server started on port 3000
+2024-08-04T05:35:38.132Z info: MongoDB connected
+2024-08-04T05:35:41.335Z info: GET /api/tasks
+2024-08-04T05:35:41.358Z error: Task is not defined
+2024-08-04T05:35:41.358Z error: Failed to retrieve tasks
+2024-08-04T05:35:55.727Z info: Server started on port 3000
+2024-08-04T05:35:55.733Z info: MongoDB connected
+2024-08-04T05:35:57.369Z info: GET /api/tasks
+2024-08-04T05:35:57.390Z error: Task is not defined
+2024-08-04T05:35:57.390Z error: Failed to retrieve tasks
+2024-08-04T05:36:17.866Z info: Server started on port 3000
+2024-08-04T05:36:17.872Z info: MongoDB connected
+2024-08-04T05:36:20.565Z info: GET /api/tasks
+2024-08-04T05:36:20.581Z error: Task is not defined
+2024-08-04T05:36:20.581Z error: Failed to retrieve tasks
+2024-08-04T05:36:24.785Z info: Server started on port 3000
+2024-08-04T05:36:24.792Z info: MongoDB connected
+2024-08-04T05:36:26.490Z info: Server started on port 3000
+2024-08-04T05:36:26.497Z info: MongoDB connected
+2024-08-04T05:36:58.397Z info: Server started on port 3000
+2024-08-04T05:36:58.405Z info: MongoDB connected
+2024-08-04T05:37:00.517Z info: GET /api/tasks
+2024-08-04T05:37:00.530Z error: Task is not defined
+2024-08-04T05:37:00.530Z error: Failed to retrieve tasks
+2024-08-04T05:37:14.438Z info: Server started on port 3000
+2024-08-04T05:37:14.444Z info: MongoDB connected
+2024-08-04T05:37:16.649Z info: GET /api/tasks
+2024-08-04T05:37:16.676Z error: Task is not defined
+2024-08-04T05:37:16.677Z error: Failed to retrieve tasks
+2024-08-04T05:37:22.632Z info: Server started on port 3000
+2024-08-04T05:37:22.638Z info: MongoDB connected
+2024-08-04T05:37:40.355Z info: Server started on port 3000
+2024-08-04T05:37:40.362Z info: MongoDB connected
+2024-08-04T05:37:44.994Z info: GET /api/tasks
+2024-08-04T05:37:45.009Z error: Task is not defined
+2024-08-04T05:37:45.010Z error: Failed to retrieve tasks
+2024-08-04T05:37:58.635Z info: Server started on port 3000
+2024-08-04T05:37:58.642Z info: MongoDB connected
+2024-08-04T05:38:02.120Z info: GET /api/tasks
+2024-08-04T05:38:18.429Z info: Server started on port 3000
+2024-08-04T05:38:18.437Z info: MongoDB connected
+2024-08-04T05:39:23.180Z info: Server started on port 3000
+2024-08-04T05:39:23.187Z info: MongoDB connected
+2024-08-04T05:39:25.684Z info: GET /api/tasks
+2024-08-04T05:40:02.745Z info: POST /api/users/register
+2024-08-04T05:40:02.859Z info: User Created ridvan ridvan.uyn8@gmail.com
+2024-08-04T05:40:13.919Z info: GET /api/tasks
+2024-08-04T05:41:18.520Z info: GET /api/tasks
+2024-08-04T05:41:26.761Z info: GET /api/tasks?title=Sa
+2024-08-04T05:41:30.370Z info: GET /api/tasks?title=As
+2024-08-04T05:41:38.794Z info: GET /api/tasks?title=dfdfd
+2024-08-04T05:41:41.894Z info: GET /api/tasks?title=dfd
+2024-08-04T05:41:44.840Z info: GET /api/tasks?title=s
+2024-08-04T05:41:49.750Z info: GET /api/tasks?title=ask
+2024-08-04T05:42:04.627Z info: Server started on port 3000
+2024-08-04T05:42:04.633Z info: MongoDB connected
+2024-08-04T05:42:07.518Z info: GET /api/tasks?title=6
+2024-08-04T05:42:13.004Z info: GET /api/tasks?title=%C3%A7
+2024-08-04T05:42:22.122Z info: Server started on port 3000
+2024-08-04T05:42:22.129Z info: MongoDB connected
+2024-08-04T05:42:23.805Z info: GET /api/tasks?title=%C3%A7
+2024-08-04T05:45:43.801Z info: Server started on port 3000
+2024-08-04T05:45:43.809Z info: MongoDB connected
+2024-08-04T05:45:46.130Z info: Server started on port 3000
+2024-08-04T05:45:46.136Z info: MongoDB connected
+2024-08-04T05:46:45.006Z info: Server started on port 3000
+2024-08-04T05:46:45.014Z info: MongoDB connected
+2024-08-04T05:49:50.662Z info: Server started on port 3000
+2024-08-04T05:49:50.669Z info: MongoDB connected
+2024-08-04T05:49:51.905Z info: Server started on port 3000
+2024-08-04T05:49:51.911Z info: MongoDB connected
+2024-08-04T05:50:37.457Z info: Server started on port 3000
+2024-08-04T05:50:37.463Z info: MongoDB connected
+2024-08-04T05:50:57.814Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:50:57.829Z error: Not authorized to delete this task
+2024-08-04T05:51:03.458Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:51:03.471Z error: Not authorized to delete this task
+2024-08-04T05:51:12.152Z info: PUT /api/tasks/66af0eba518541caf6296133
+2024-08-04T05:51:12.161Z error: Not authorized to delete this task
+2024-08-04T05:51:35.565Z info: Server started on port 3000
+2024-08-04T05:51:35.571Z info: MongoDB connected
+2024-08-04T05:51:56.642Z info: GET /api/tasks
+2024-08-04T05:52:12.230Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:52:20.272Z info: GET /api/tasks/66aef067e8494f426
+2024-08-04T05:52:20.279Z error: Validation failed
+2024-08-04T05:52:25.972Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:52:35.504Z info: PUT /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:52:41.040Z info: PUT /api/tasks/66aef067e8494f426cd71
+2024-08-04T05:52:41.050Z error: Validation failed
+2024-08-04T05:52:55.291Z info: PUT /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:52:55.296Z error: Validation failed
+2024-08-04T05:53:44.986Z info: Server started on port 3000
+2024-08-04T05:53:44.993Z info: MongoDB connected
+2024-08-04T05:55:54.979Z info: Server started on port 3000
+2024-08-04T05:55:54.986Z info: MongoDB connected
+2024-08-04T05:56:28.722Z info: Server started on port 3000
+2024-08-04T05:56:28.728Z info: MongoDB connected
+2024-08-04T05:56:52.375Z info: Server started on port 3000
+2024-08-04T05:56:52.382Z info: MongoDB connected
+2024-08-04T05:57:30.983Z info: Server started on port 3000
+2024-08-04T05:57:30.989Z info: MongoDB connected
+2024-08-04T05:57:38.390Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:39.095Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:39.651Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:40.141Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:40.785Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:41.312Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:41.780Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:42.248Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:42.811Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T05:57:43.335Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T06:00:13.294Z info: Server started on port 3000
+2024-08-04T06:00:13.299Z info: MongoDB connected
+2024-08-04T06:00:40.433Z info: Server started on port 3000
+2024-08-04T06:00:40.440Z info: MongoDB connected
+2024-08-04T06:02:37.064Z info: Server started on port 3000
+2024-08-04T06:02:37.071Z info: MongoDB connected
+2024-08-04T06:02:41.592Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T06:02:42.753Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T06:02:43.275Z info: GET /api/tasks/66aef067e8494f426cd71bc3
+2024-08-04T06:02:43.276Z error: Token is not valid
+2024-08-04T06:02:56.388Z info: GET /api/tasks
+2024-08-04T06:02:56.390Z error: Token is not valid
+2024-08-04T06:02:56.828Z info: GET /api/tasks
+2024-08-04T06:02:56.829Z error: Token is not valid
+2024-08-04T06:03:06.449Z info: POST /api/users/register
+2024-08-04T06:03:06.454Z error: User already exists
+2024-08-04T06:03:06.455Z error: Failed to register user
+2024-08-04T06:03:16.310Z info: POST /api/users/login
+2024-08-04T06:03:33.933Z info: GET /api/tasks
+2024-08-04T06:03:34.888Z info: GET /api/tasks
+2024-08-04T06:03:35.534Z info: GET /api/tasks
+2024-08-04T06:04:12.768Z info: Server started on port 3000
+2024-08-04T06:04:12.774Z info: MongoDB connected
+2024-08-04T06:05:14.323Z info: Server started on port 3000
+2024-08-04T06:05:14.332Z info: MongoDB connected
+2024-08-04T06:05:23.064Z info: Server started on port 3000
+2024-08-04T06:05:23.071Z info: MongoDB connected
+2024-08-04T06:05:26.525Z info: GET /api/tasks
+2024-08-04T06:05:27.597Z info: GET /api/tasks
+2024-08-04T06:05:28.034Z info: GET /api/tasks
+2024-08-04T06:05:28.493Z info: GET /api/tasks
+2024-08-04T06:05:28.938Z info: GET /api/tasks
+2024-08-04T06:05:29.378Z info: GET /api/tasks
+2024-08-04T06:05:29.829Z info: GET /api/tasks
+2024-08-04T06:05:30.298Z info: GET /api/tasks
+2024-08-04T06:05:30.688Z info: GET /api/tasks
+2024-08-04T06:05:31.355Z info: GET /api/tasks
+2024-08-04T06:06:21.661Z info: Server started on port 3000
+2024-08-04T06:06:21.668Z info: MongoDB connected
+2024-08-04T06:06:33.707Z info: Server started on port 3000
+2024-08-04T06:06:33.715Z info: MongoDB connected
+2024-08-04T06:06:37.832Z info: POST /api/tasks
+2024-08-04T06:06:37.847Z error: Validation failed
+2024-08-04T06:08:21.230Z info: Server started on port 3000
+2024-08-04T06:08:21.237Z info: MongoDB connected
+2024-08-04T06:08:24.518Z info: POST /api/tasks
+2024-08-04T06:08:24.534Z error: Validation failed
+2024-08-04T06:08:25.477Z info: POST /api/tasks
+2024-08-04T06:08:25.484Z error: Validation failed
+2024-08-04T06:08:49.149Z info: Server started on port 3000
+2024-08-04T06:08:49.155Z info: MongoDB connected
+2024-08-04T06:08:52.398Z info: POST /api/tasks
+2024-08-04T06:08:52.414Z error: Validation failed
+2024-08-04T06:10:39.958Z info: Server started on port 3000
+2024-08-04T06:10:39.965Z info: MongoDB connected
+2024-08-04T06:10:44.302Z info: POST /api/tasks
+2024-08-04T06:10:44.320Z error: Validation error
+2024-08-04T06:11:09.292Z info: Server started on port 3000
+2024-08-04T06:11:09.299Z info: MongoDB connected
+2024-08-04T06:11:34.357Z info: Server started on port 3000
+2024-08-04T06:11:34.363Z info: MongoDB connected
+2024-08-04T06:11:36.144Z info: POST /api/tasks
+2024-08-04T06:11:36.155Z error: Validation error
+2024-08-04T06:12:42.079Z info: Server started on port 3000
+2024-08-04T06:12:42.086Z info: MongoDB connected
+2024-08-04T06:12:44.106Z info: POST /api/tasks
+2024-08-04T06:12:44.115Z error: Validation error
+2024-08-04T06:12:44.951Z info: POST /api/tasks
+2024-08-04T06:12:44.958Z error: Validation error
+2024-08-04T06:12:45.721Z info: POST /api/tasks
+2024-08-04T06:12:45.728Z error: Validation error
+2024-08-04T06:13:58.000Z info: Server started on port 3000
+2024-08-04T06:13:58.007Z info: MongoDB connected
+2024-08-04T06:14:00.699Z info: POST /api/tasks
+2024-08-04T06:15:26.342Z info: Server started on port 3000
+2024-08-04T06:15:26.347Z info: MongoDB connected
+2024-08-04T06:15:49.769Z info: Server started on port 3000
+2024-08-04T06:15:49.775Z info: MongoDB connected
+2024-08-04T06:15:52.662Z info: POST /api/tasks
+2024-08-04T06:17:12.401Z info: Server started on port 3000
+2024-08-04T06:17:12.407Z info: MongoDB connected
+2024-08-04T06:17:15.761Z info: POST /api/tasks
+2024-08-04T06:17:42.530Z info: POST /api/tasks
+2024-08-04T06:17:42.555Z info: Task Created {
+  title: 'Saç',
+  description: 'This is a sample task description.',
+  userId: new ObjectId("66af14325b6330a3ac637368"),
+  _id: new ObjectId("66af1d06c5c71cd3aa1ffa54"),
+  createdAt: 2024-08-04T06:17:42.545Z,
+  updatedAt: 2024-08-04T06:17:42.545Z,
+  __v: 0
+}
+2024-08-04T06:17:54.262Z info: POST /api/users/register
+2024-08-04T06:17:54.267Z error: User already exists
+2024-08-04T06:18:43.968Z info: Server started on port 3000
+2024-08-04T06:18:43.974Z info: MongoDB connected
+2024-08-04T06:18:47.630Z info: POST /api/users/register
+2024-08-04T06:18:47.639Z error: User already exists
+2024-08-04T06:19:38.257Z info: Server started on port 3000
+2024-08-04T06:19:38.264Z info: MongoDB connected
+2024-08-04T06:19:39.754Z info: POST /api/users/register
+2024-08-04T06:19:39.763Z error: User already exists
+2024-08-04T06:19:40.643Z info: POST /api/users/register
+2024-08-04T06:19:40.647Z error: User already exists
+2024-08-04T06:19:44.910Z info: Server started on port 3000
+2024-08-04T06:19:44.917Z info: MongoDB connected
+2024-08-04T06:19:46.548Z info: Server started on port 3000
+2024-08-04T06:19:46.555Z info: MongoDB connected
+2024-08-04T06:19:48.370Z info: POST /api/users/register
+2024-08-04T06:19:48.380Z error: User already exists
+2024-08-04T06:20:40.096Z info: Server started on port 3000
+2024-08-04T06:20:40.102Z info: MongoDB connected
+2024-08-04T06:20:58.765Z info: Server started on port 3000
+2024-08-04T06:20:58.772Z info: MongoDB connected
+2024-08-04T06:21:01.541Z info: Server started on port 3000
+2024-08-04T06:21:01.548Z info: MongoDB connected
+2024-08-04T06:21:07.216Z info: Server started on port 3000
+2024-08-04T06:21:07.223Z info: MongoDB connected
+2024-08-04T06:21:14.330Z info: POST /api/users/register
+2024-08-04T06:21:14.341Z error: User already exists
+2024-08-04T06:21:26.013Z info: Server started on port 3000
+2024-08-04T06:21:26.020Z info: MongoDB connected
+2024-08-04T06:21:28.299Z info: POST /api/users/register
+2024-08-04T06:21:28.308Z error: User already exists
+2024-08-04T06:23:28.955Z info: Server started on port 3000
+2024-08-04T06:23:28.961Z info: MongoDB connected
+2024-08-04T06:24:42.927Z info: Server started on port 3000
+2024-08-04T06:24:42.934Z info: MongoDB connected
+2024-08-04T06:24:45.031Z info: Server started on port 3000
+2024-08-04T06:24:45.037Z info: MongoDB connected
+2024-08-04T06:25:18.205Z info: Server started on port 3000
+2024-08-04T06:25:18.212Z info: MongoDB connected
+2024-08-04T06:25:46.988Z info: POST /api/users/register
+2024-08-04T06:25:46.997Z error: User already exists
+2024-08-04T06:27:41.265Z info: Server started on port 3000
+2024-08-04T06:27:41.270Z info: MongoDB connected
+2024-08-04T06:27:56.827Z info: Server started on port 3000
+2024-08-04T06:27:56.834Z info: MongoDB connected
+2024-08-04T06:28:00.996Z info: POST /api/users/register
+2024-08-04T06:28:01.005Z error: next is not defined
+2024-08-04T06:28:08.085Z info: POST /api/users/login
+2024-08-04T06:28:13.649Z info: POST /api/users/login
+2024-08-04T06:28:49.849Z info: Server started on port 3000
+2024-08-04T06:28:49.855Z info: MongoDB connected
+2024-08-05T17:08:20.244Z info: Server started on port 3000
+2024-08-05T17:08:20.249Z info: MongoDB connected
+2024-08-05T17:10:29.951Z info: Server started on port 3000
+2024-08-05T17:10:29.957Z info: MongoDB connected
