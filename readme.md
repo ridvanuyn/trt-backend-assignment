@@ -64,9 +64,96 @@ src/
 ├── package-lock.json
 ├── package.json
 ```
-# Project Functionalities
 
-This project appears to be a task management application with functionalities related to user and task management. The main functionalities provided by the project are:
+# Project Functionalities and Covered Test Cases
+
+This project is a task management application with functionalities related to user and task management. The main functionalities provided by the project are:
+
+
+## Technologies Used
+- Node.js
+- Express.js
+- JWT (JSON Web Tokens)
+- MongoDB (as an example for the persistence layer)
+
+## Additional Considerations (Optional)
+- [x] Pagination for listing tasks
+- [x] Filtering and sorting options for task retrieval
+- [x] Integration with third-party authentication providers (e.g., OAuth, social login)
+- [x] Rate limiting and throttling to prevent abuse
+
+
+## Requirements and Covered Cases
+
+1. **User Authentication:** Implement user authentication using JWT (JSON Web Tokens) or any other preferred authentication mechanism.
+   - [x] Implemented user authentication using JWT.
+
+2. **Task Management API:** Design and develop API endpoints for the following operations:
+   - [x] Create a new task
+   - [x] Retrieve a list of tasks
+   - [x] Retrieve a single task by ID
+   - [x] Update an existing task
+   - [x] Delete a task
+
+3. **Authorization:** Ensure that only authenticated users can perform CRUD operations on tasks, and users can only modify or delete tasks that they own.
+   - [x] Implemented authorization checks for CRUD operations on tasks.
+
+4. **Validation:** Implement input validation to ensure data integrity and security.
+   - [x] Implemented input validation for task and user operations.
+
+5. **Persistence Layer:** Use a database (MongoDB or any SQL/NoSQL database) to store task data.
+   - [x] Used MongoDB for storing task and user data.
+
+6. **Documentation:** Provide clear documentation on how to use the API, including endpoint descriptions, request and response formats, and authentication requirements.
+   - [x] Created comprehensive API documentation.
+
+7. **Error Handling:** Implement appropriate error handling and response codes for different scenarios.
+   - [x] Implemented error handling for various API endpoints.
+
+8. **Unit Testing:** Write unit tests to ensure the functionality and reliability of the API endpoints.
+   - [x] Created unit tests for the TaskController, covering creation, retrieval, update, and deletion of tasks.
+
+9. **Security:** Implement security best practices to protect against common security threats (e.g., SQL injection, cross-site scripting).
+   - [x] Applied security best practices, including input validation and use of secure authentication methods.
+
+## Details of Covered Cases
+
+### Pagination for Listing Tasks
+Implemented pagination to efficiently handle and display large lists of tasks, ensuring the system remains performant and user-friendly.
+
+### Filtering and Sorting Options for Task Retrieval
+Provided filtering and sorting options to allow users to easily find and organize their tasks based on different criteria.
+
+### Integration with Third-Party Authentication Providers
+Integrated with OAuth and other third-party authentication providers to offer a seamless login experience, enhancing security and user convenience.
+
+### Rate Limiting and Throttling
+Implemented rate limiting and throttling mechanisms to prevent abuse and ensure fair use of the API, protecting the system from potential denial-of-service attacks.
+
+### User Authentication with JWT
+Utilized JSON Web Tokens (JWT) for secure user authentication, ensuring that only authorized users can access and manipulate their tasks.
+
+### Task Management API
+Designed and developed comprehensive API endpoints to manage tasks, including creation, retrieval, updating, and deletion, with appropriate validation and error handling.
+
+### Authorization Checks
+Ensured that only authenticated users can perform CRUD operations on their own tasks, enhancing security and preventing unauthorized access.
+
+### Input Validation
+Implemented thorough input validation to maintain data integrity and security, preventing malicious input from compromising the system.
+
+
+### Comprehensive API Documentation
+Provided detailed API documentation, including endpoint descriptions, request and response formats, and authentication requirements, to facilitate easy integration and use by developers.
+
+### Error Handling Mechanisms
+Implemented robust error handling to ensure that the system responds gracefully to unexpected issues, providing meaningful feedback to users and developers.
+
+### Unit Testing with Jest
+Created extensive unit tests for the `TaskController` using Jest, covering various scenarios to ensure the functionality and reliability of the API endpoints.
+
+By covering these cases, the project ensures a comprehensive, secure, and user-friendly task management application.
+
 
 ## User Management
 - **Create a New User:**
